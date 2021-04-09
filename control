@@ -1,0 +1,11 @@
+Package: com.obumbravit.calk
+Name: Calk
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: OLED Calculator.
+Maintainer: 0ver$hadowed
+Author: 0ver$hadowed
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Calk.png
+Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.calk

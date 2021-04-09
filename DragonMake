@@ -1,0 +1,15 @@
+---
+name: Calk
+icmd: sbreload
+
+all:
+  targetvers: 13.3
+  archs:
+    - arm64
+    - arm64e
+  cflags: -fobjc-arc
+
+Calk:
+  type: tweak
+  logos_files:
+    - "*.x"
